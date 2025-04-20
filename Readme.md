@@ -31,7 +31,7 @@ __Habilidades:__
 <img src="https://i.giphy.com/1Hsj6o3KyD4Ke6m0MU.webp" width="30px">&nbsp; ***Español nativo***
 </div>
 
-<h2>👀 Contacto</h2>
+<h2><marquee>👀 Contacto</marquee></h2>
 
 * **Telefono:** 913533276
 * **Correo:** dayanaramunoz130303@gmail.com 
